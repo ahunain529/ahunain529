@@ -14,44 +14,6 @@
 
 ---
 
-### 🛠️ My Tech Stack
-
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a" />
-<img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Code-Springboot-informational?style=flat&logo=springboot&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a" /> 
-<img src="https://img.shields.io/badge/AI-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a" /> 
-
----
-
-### ✨ Let's Connect
-
-<p>
-  <a href="https://wa.me/923323102163" target="_blank">
-    <img src="https://img.shields.io/badge/Whatsapp-Contact-green?style=for-the-badge&logo=whatsapp" />
-  </a>
-  <a href="mailto:alihunain32@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihunain&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihunain&theme=dark" />
-</p>
-
----
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alihunain2112) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alihunain2112) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alihunain22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-hunain) 
 
