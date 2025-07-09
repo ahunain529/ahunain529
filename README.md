@@ -4,7 +4,7 @@
   Hi 👋, I'm Ali Hunain
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Eat%2C+Sleep%2C+Code%2C+Repeat;Full+Stack+Developer;Learning+AI+%26+ML;Let's+build+something+amazing!&background=00000000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Eat%2C+Sleep%2C+Code%2C+Repeat;Full+Stack+Developer;Learning+AI+%26+ML;Let's+build+something+amazing!" alt="Typing SVG" />
 
 
 </div>
