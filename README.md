@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ali Hunain</h1>
+<div align="center" style="background-color:#0f0f0f; padding: 30px; border-radius: 10px;">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Eat%2C+Sleep%2C+Code%2C+Repeat;Full+Stack+Developer;Learning+AI+%26+ML;Let's+build+something+amazing!" alt="Typing SVG" />
-</p>
+<h1 style="font-size: 50px; background: linear-gradient(90deg, #00F7FF, #FF00FF); -webkit-background-clip: text; color: transparent;">
+  Hi 👋, I'm Ali Hunain
+</h1>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Eat%2C+Sleep%2C+Code%2C+Repeat;Full+Stack+Developer;Learning+AI+%26+ML;Let's+build+something+amazing!" alt="Typing SVG" />
+
+</div>
 
 ### 💫 About Me
 
